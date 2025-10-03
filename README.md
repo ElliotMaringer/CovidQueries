@@ -1,6 +1,6 @@
 # COVID-19 SQL Queries for Tableau Visualization
 
-This repository contains the SQL queries I created while analyzing global COVID-19 data for a Tableau dashboard project. The queries were designed to explore infection rates, death percentages, and vaccination progress across countries and regions.
+This repository contains the SQL queries I created while analyzing global COVID-19 data for a Tableau dashboard project. The queries were designed to explore infection rates, death percentages, and vaccination progress across countries and regions. https://public.tableau.com/app/profile/elliot.maringer/vizzes.
 
 ## Contents
 
